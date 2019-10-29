@@ -1,2 +1,3 @@
-# savetheanimal-unity
-A tetris like game in unity
+# Save The Animal
+
+A tetris like 2D game in unity with animals instead of tetrominos.
